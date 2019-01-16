@@ -1,2 +1,1 @@
-# yukkurihackers
 empty
